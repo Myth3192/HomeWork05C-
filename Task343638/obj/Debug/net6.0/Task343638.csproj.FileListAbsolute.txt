@@ -1,0 +1,15 @@
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/bin/Debug/net6.0/Task343638
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/bin/Debug/net6.0/Task343638.deps.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/bin/Debug/net6.0/Task343638.runtimeconfig.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/bin/Debug/net6.0/Task343638.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/bin/Debug/net6.0/Task343638.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.csproj.AssemblyReference.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.AssemblyInfoInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.AssemblyInfo.cs
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.csproj.CoreCompileInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/refint/Task343638.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/Task343638.genruntimeconfig.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork05C#/Task343638/obj/Debug/net6.0/ref/Task343638.dll
